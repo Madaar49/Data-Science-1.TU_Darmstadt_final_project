@@ -1,10 +1,7 @@
 # CCPP_AT.Pred
 Predicting the Ambient Temperature (AP) of a Combined cycle power plant CCCP using Machine Learning
 
-Objective
-To predict the 'Ambient Temperature (AT)' of a Combined Cycle Power Plant (CCCP)
-
-Societal and Economic benefits
+Societal and Economic benefits-->
 Analysis of the ambient temperature of a CCCP is essential in effeciciency of a Power plant.
 
 Introduction to the Dataset
