@@ -1,5 +1,5 @@
 # CCPP_AT.Pred
-Predicting the Ambient Temperature (AP) of a Combined cycle power plant CCCP using Machine Learning
+This project aims at predicting the Ambient Temperature (AP) of a Combined cycle power plant CCCP using Machine Learning
 
 Societal and Economic benefits-->
 Analysis of the ambient temperature of a CCCP is essential in effeciciency of a Power plant.
