@@ -16,7 +16,7 @@ This project aims at predicting the Energy Output (PE) of a Combined cycle power
   
 ## Results 
 - Hypothesis Testing
-  - Hypothesis testing was done to test the suitablity of  to be a relevant predictor since the correlation coeff of 0.39 shows that RH seems like a weak predictor variable. The results from the hypothesis testing showed that at a p-value of 0.0000 which is less than the significant level of 0.05 therefore RH is a good predictor of PE
+  - Hypothesis testing was done to test the suitablity of 'RH' to be a relevant predictor of 'PE', since the correlation coeff of 0.39 shows that RH seems like a weak predictor variable. The results from the hypothesis testing showed that at a p-value of 0.0000 which is less than the significant level of 0.05 therefore RH is a good predictor of PE
 - Experimental Models
   - Experimental models using MLR and MLR-Polynomial regressors showed no significant difference in `MAE`, `MSE` and `RMSE` values
 - Final Models
