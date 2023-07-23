@@ -3,7 +3,7 @@
 ## Project Title : Predicting the ambient electrical energy output (PE) of a Combined Cycle Power Plant (CCCP) by Machine Learning
 
 ## Introduction
-This project aims at predicting the Ambient Temperature (AP) of a Combined cycle power plant CCCP using Machine Learning.
+This project aims at predicting the Energy Output (PE) of a Combined cycle power plant CCCP using Machine Learning.
 
 ## Data and Methods
 - Data: The <a href="https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant">Combined cycle power plant</a> dataset is one of the many ML datasets in the UC Irvine data repository. The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (PE) of the plant.
