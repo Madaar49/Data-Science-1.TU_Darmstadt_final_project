@@ -1,6 +1,6 @@
-# [Data Science 1 - Final Project]
+# Data Science 1 - Final Project
 
-## Project Title : Predicting the ambient electrical energy output (PE) of a Combined Cycle Power Plant (CCCP) by Machine Learning
+## Project Title : Predicting the ambient electrical energy output (PE) of a Combined Cycle Power Plant (CCCP) using Machine Learning algorithms
 
 ## Introduction
 This project aims at predicting the Energy Output (PE) of a Combined cycle power plant CCCP using Machine Learning.
